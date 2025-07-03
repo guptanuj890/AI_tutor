@@ -1,0 +1,15 @@
+python-docx
+python-pptx
+pytesseract
+Pillow
+pdfminer.six
+shutil
+streamlit
+pytesseract
+langchain
+langchain_community
+langchain-google-genai
+pypdf
+faiss-cpu
+unstructured
+python-pptx
